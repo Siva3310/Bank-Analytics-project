@@ -104,11 +104,3 @@ This **Bank Analytics** project provides a **comprehensive analysis** of loan tr
 
 ## 🙌 Thank You!  
 
----
-
-
-👨‍💼 Team Members
-
-👤 Vikas K S👤 Sagar Shriram Wankhede👤 Devarapaga Revathi👤 Vaishnavi Bhanuvalli👤 Bhumireddy Siva Rama Krishna Reddy👤 Pollakayala Nagendra
-
-🙌 Thank You!
