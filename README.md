@@ -55,9 +55,10 @@ The **Bank Analytics** project analyzes loan data to extract meaningful financia
 
 ---
 
-## 📌 Dashboard Preview  
-### 🖼️ Power BI, Tableau & Excel Dashboards  
-![Dashboard Preview]"C:\Users\19457\OneDrive\Desktop\DATA ANALYTICS COURSE\BANK ANALYTICS(PROJECT-1)\Bank_Analytics_project.png" 
+## 📊 Dashboard Preview  
+![Bank Loan Dashboard]![Bank_Analytics_project](https://github.com/user-attachments/assets/61981791-1e37-44d6-8ba6-86ae4d6d7146)
+
+
 
 ---
 
