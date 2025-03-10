@@ -25,7 +25,7 @@ The **Bank Analytics** project analyzes loan data to extract meaningful financia
 
 ---
 
-## 📊 Key Insights (With Values)  
+## 📊 Key Insights   
 ### **1⃣ Yearly Loan Amount Trends**  
 🔹 Loan disbursements **increased steadily** over the years, showing growing demand.  
 🔹 **2020:** $12.5M | **2021:** $15.3M | **2022:** $18.7M  
